@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: LinkSkin 3
+  m_Name: LinkSkin 10
   m_Shader: {fileID: -6465566751694194690, guid: 0f5e702a3443601488ac970c7285313c,
     type: 3}
   m_Parent: {fileID: 0}
@@ -45,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DiffuseTexture:
-        m_Texture: {fileID: 2800000, guid: b52144840eb3fa4429583a582b9027c7, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3c93b5ebe09f7cf42b8c455df64262d3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
