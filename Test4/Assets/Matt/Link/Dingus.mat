@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: LinkSkin 8
+  m_Name: Dingus
   m_Shader: {fileID: -6465566751694194690, guid: 0f5e702a3443601488ac970c7285313c,
     type: 3}
   m_Parent: {fileID: 0}
