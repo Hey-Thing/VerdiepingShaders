@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-5556985844683056238
+--- !u!114 &-3038942161528180827
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Flesh
+  m_Name: Flesh
   m_Shader: {fileID: -6465566751694194690, guid: 82487dec38a1add4cb875cce5f89f6ee,
     type: 3}
   m_Parent: {fileID: 0}
@@ -52,8 +52,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _BumpDenstie: 2.68
-    - _Bumps: 0.001
+    - _Bumps: 0.3
+    - _Edge: -0.86
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _bumpMoveSpeed: 1.5
+    - _edgeRange: 1
+    - _pluseSpeed: 2
+    m_Colors:
+    - _ColorMain: {r: 0.4823529, g: 0, b: 0.02227035, a: 1}
+    - _ColorSub: {r: 0, g: 0, b: 0, a: 0.1882353}
   m_BuildTextureStacks: []
