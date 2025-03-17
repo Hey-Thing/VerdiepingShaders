@@ -60,6 +60,6 @@ Material:
     - _edgeRange: 1
     - _pluseSpeed: 2
     m_Colors:
-    - _ColorMain: {r: 0.4823529, g: 0, b: 0.02227035, a: 1}
-    - _ColorSub: {r: 0, g: 0, b: 0, a: 0.1882353}
+    - _ColorMain: {r: 0.4245283, g: 0, b: 0.39558047, a: 1}
+    - _ColorSub: {r: 0.014037297, g: 0.14150941, b: 0, a: 0.1882353}
   m_BuildTextureStacks: []
